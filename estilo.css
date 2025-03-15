@@ -849,12 +849,12 @@ a{
     }
   }
   @media screen and (min-width: 341px) and (max-width: 490px){
-    .titulo{
+        .titulo{
       border-color: black;
       border-style: solid;
       border-width: 5px;
-      width: 390%;
-      height: 100px;
+      width: 410%;
+      height: 150px;
       transform: translateX(-8px);
       margin-top: -8px;
       background: rgb(0, 0, 0);
@@ -879,7 +879,7 @@ a{
     margin-top: 35px;
 }
 #k1{
-    margin-left:820px;
+    margin-left:870px;
     width: 200px;
 }
 #k2{
@@ -891,7 +891,7 @@ a{
 }
 .q{
   color: rgb(255, 255, 255);
-  font-size: 20px;
+  font-size: 30px;
   font-family: Arial, sans-serif;
 }
 #foto{
