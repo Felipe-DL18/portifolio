@@ -849,7 +849,7 @@ a{
     }
   }
   @media screen and (min-width: 341px) and (max-width: 490px){
-        .titulo{
+    .titulo{
       border-color: black;
       border-style: solid;
       border-width: 5px;
@@ -862,7 +862,7 @@ a{
       position: relative;
       overflow: hidden;
       border-bottom: none;
-      color: white;
+      color: black;
   }
   #kk{
       background-color: black;
