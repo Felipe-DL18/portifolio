@@ -916,9 +916,9 @@ a{
   font-size: 40px;
 }
 #app{
-  margin-left: 140px;
+  margin-left: 160px;
   margin-right: 0px;
-  transform: translateY(380px);
+  transform: translateY(410px);
   font-size: 40px;
   font-family: Arial, sans-serif;
 }
@@ -930,10 +930,10 @@ a{
   width: 400px;
   height: 400px;
   margin-left: -40px;
-  transform: translateX(90px);
+  transform: translateX(120px);
   margin-top: 100px;
   display: flex;
-  margin-left: 300px;
+  margin-left: 340px;
 }
 #tow{
   width: 400px;
