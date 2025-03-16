@@ -909,8 +909,8 @@ a{
   color: white;
 }
 #ap{
-  margin-left: 590px;
-  margin-top: -410px;
+  margin-left: 570px;
+  margin-top: -450px;
   transform: translateY(-10px);
   font-family: Arial, sans-serif;
   font-size: 40px;
@@ -929,7 +929,7 @@ a{
   border-width: 4px;
   width: 400px;
   height: 400px;
-  margin-left: -50px;
+  margin-left: -40px;
   transform: translateX(90px);
   margin-top: 100px;
   display: flex;
