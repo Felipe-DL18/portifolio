@@ -963,6 +963,8 @@ a{
   border-style: solid;
   width: 99.5%;
   height: 550px;
+  text-align: center;
+  align-items: center;
 }
 #tuz{
   margin-left: 600px;
