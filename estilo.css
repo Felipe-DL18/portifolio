@@ -931,6 +931,7 @@ a{
   height: 400px;
   transform: translateX(-250px);
   display: flex;
+  margin-top: 100px;
 }
 #tow{
   width: 400px;
