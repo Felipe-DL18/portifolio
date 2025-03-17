@@ -941,7 +941,7 @@ a{
   width: 400px;
   height: 400px;
   transform: translateY(500px);
-  margin-left: 500px;
+  margin-left: 440px;
   opacity: 0;
   animation: aparecer 1s ease-out forwards;
   animation-delay: 2s;
