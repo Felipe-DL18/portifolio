@@ -929,8 +929,8 @@ a{
   border-width: 4px;
   width: 400px;
   height: 400px;
-  transform: translateX(-120px);
-  margin-top: 130px;
+  transform: translateX(-170px);
+  margin-top: 190px;
   display: flex;
 }
 #tow{
