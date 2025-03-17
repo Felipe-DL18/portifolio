@@ -938,8 +938,8 @@ a{
   height: 400px;
 }
 .tow1{
-  transform: translateY(400px);
-  margin-left: 420px;
+  transform: translateY(440px);
+  margin-left: 510px;
   opacity: 0;
   animation: aparecer 1s ease-out forwards;
   animation-delay: 2s;
