@@ -849,11 +849,11 @@ a{
     }
   }
   @media screen and (min-width: 341px) and (max-width: 490px){
-    .titulo{
+       .titulo{
       border-color: black;
-      border-style: solid;
+      border-style: solid;  
       border-width: 5px;
-      width: 409%;
+      width:1500px;
       height: 150px;
       transform: translateX(-8px);
       margin-top: -8px;
@@ -901,7 +901,7 @@ a{
   border-style: solid;
   border-width: 3px;
   width:80%;
-  height: 3200px;
+  height: 3150px;
   margin-left: -270px;
   background-color: transparent;
   backdrop-filter: blur(500px);
@@ -909,7 +909,7 @@ a{
   color: white;
 }
 #ap{
-  margin-left: 610px;
+  margin-left: 590px;
   margin-top: -450px;
   transform: translateY(-10px);
   font-family: Arial, sans-serif;
@@ -941,7 +941,7 @@ a{
   width: 400px;
   height: 400px;
   margin-top: 120px;
-  margin-left: 440px;
+  margin-left: 380px;
   opacity: 0;
   animation: aparecer 1s ease-out forwards;
   animation-delay: 2s;
@@ -952,7 +952,7 @@ a{
 #necta{
   padding-left: 50px;
   padding-right: 50px;
-  font-size: 30px;
+  font-size: 40px;
   transform: translateY(400px);
 }
 #emb{
@@ -962,153 +962,177 @@ a{
   border-width: 3px;
   border-style: solid;
   width: 99.5%;
-  height: 550px;
+  height: 830px;
 }
 #tuz{
-  margin-left: 600px;
+  margin-left: 490px;
   color:white;
-  font-size:30px;
+  font-size:40px;
   transform: translateY(-10px);
 }
 .coisa1{
   margin-top: 85px;
-  margin-left: 580px;
-  font-size: 30px;
-  transform: translateY(-210px);
+  margin-left:520px;
+  font-size: 40px;
+  transform: translateY(-260px);
   font-family: Arial, sans-serif;
 }
 .t{
-  margin-left: 115px;
-  transform: translateY(-140px);
+  margin-left: 190px;
+  transform: translateY(-230px);
   border-color: black;
   border-style: solid;
   border-width: 4px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .tar{
-  margin-left: 390px;
-  transform: translateY(-140px);
+  margin-left: 450px;
+  transform: translateY(-230px);
   border-color: black;
   border-style: solid;
   border-width: 4px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .fet1{
   color: white;
-  margin-left: 550px;
+  margin-left: 420px;
   transform: translateY(10px);
   font-family: Arial, sans-serif;
-  font-size: 30px;
+  font-size: 40px;
 }
 .fet2{
   color: white;
-  margin-left: 780px;
-  transform: translateY(-25px);
+  margin-left: 710px;
+  transform: translateY(-70px);
   font-family: Arial, sans-serif;
-  font-size: 30px;
+  font-size: 40px;
 }
 .coisa2{
   margin-top: 30px;
-  transform: translateY(-240px);
-  margin-left: 440px;
+  transform: translateY(-470px);
+  margin-left: 510px;
+  font-size: 40px;
   font-family: Arial, sans-serif;
 }
 .ta1{
-  transform: translateY(-215px);
+  transform: translateY(-400px);
   width: 40px;
-  margin-left: 325px;
+  margin-left: 280px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
   border-width: 4px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .tl1{
-  margin-left: 90px;
+  margin-left: 240px;
   width: 40px;
   height: 40px;
-  transform: translateY(-215px);
+  transform: translateY(-400px);
   border-color: black;
   border-style: solid;
   border-width: 4px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .j{
-margin-left: 90px;
+margin-left: 190px;
 width: 40px;
 height: 40px;
-transform: translateY(-215px);
+transform: translateY(-400px);
 border-color: black;
 border-style: solid;
 border-width: 4px;
 border-radius: 50%;
+height: 60px;
+width: 60px;
 }
 .fet3{
   color: white;
-  margin-left: 330px;
-  transform: translateY(-90px);
+  margin-left: 290px;
+  transform: translateY(-130px);
   font-family: Arial, sans-serif;
+  font-size: 40px;
 }
 .fet4{
   color: white;
-  margin-left: 470px;
-  transform: translateY(-125px);
+  margin-left: 570px;
+  transform: translateY(-215px);
   font-family: Arial, sans-serif;
+  font-size: 40px;
 }
 .fet5{
   color: white;
-  margin-left: 590px;
-  transform: translateY(-160px);
+  margin-left: 770px;
+  transform: translateY(-300px);
   font-family: Arial, sans-serif;
+  font-size: 40px;
 }
 .coisa3{
   margin-top: 30px;
-  margin-left: 410px;
-  transform: translateY(-265px);
+  margin-left: 460px;
+  transform: translateY(-460px);
   font-family: Arial, sans-serif;
+  font-size: 40px;
 }
 .tar2{
-  transform: translateY(-250px);
+  transform: translateY(-410px);
   width: 40px;
-  margin-left: 465px;
+  margin-left: 580px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
   border-width: 4px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .fet6{
   color: white;
-  margin-left: 465px;
-  transform: translateY(-190px);
+  margin-left: 560px;
+  transform: translateY(-310px);
   font-family: Arial, sans-serif;
+  font-size: 40px;
 }
 #cc{
-  margin-left: 455px;
+  margin-left: 515px;
   margin-top: -410px;
-  transform: translateY(820px);
+  transform: translateY(850px);
+  font-size:40px;
 }
 .nan{
-  margin-left: -250px;
-  transform: translateY(50px);
+  margin-left: -420px;
+  transform: translateY(100px);
   font-family: Arial, sans-serif;
+  font-size:40px;
 }
 .nann{
-  margin-left: -160px;
-  transform: translateY(220px);
+  margin-left: -350px;
+  transform: translateY(310px);
   font-family: Arial, sans-serif;
+  font-size:40px;
 }
 .bcc{
-  margin-left: 350px;
+  margin-left: 300px;
+   margin-right: -150px;
   font-family: Arial, sans-serif;
+  font-size:40px;
 }
 .bcc1{
-  margin-left:390px;
-  transform: translateY(270px);
+  margin-left:430px;
+  transform: translateY(390px);
   font-family: Arial, sans-serif;
+  font-size:40px;
 }
 #container{
   position:relative;
   width: 200vh;
-  height: 300vh;
+  height: 405vh;
 }
 #kk{
   background-color: black;
@@ -1120,7 +1144,7 @@ border-radius: 50%;
 }
 @keyframes Move1 {
   from {
-      transform: translateX(1250px);
+      transform: translateX(1320px);
       background-color: lightblue;
   }
   to {
@@ -1130,7 +1154,7 @@ border-radius: 50%;
 }
 @keyframes moveRisco {
   from {
-    transform: translateX(335vw); 
+    transform: translateX(390vw); 
   }
   to {
     transform: translateX(-10vw);
