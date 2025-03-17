@@ -963,8 +963,6 @@ a{
   border-style: solid;
   width: 99.5%;
   height: 550px;
-  text-align: center;
-  align-items: center;
 }
 #tuz{
   margin-left: 600px;
@@ -974,7 +972,7 @@ a{
 }
 .coisa1{
   margin-top: 85px;
-  margin-left: 600px;
+  margin-left: 580px;
   font-size: 30px;
   transform: translateY(-210px);
   font-family: Arial, sans-serif;
@@ -1004,7 +1002,7 @@ a{
 }
 .fet2{
   color: white;
-  margin-left: 720px;
+  margin-left: 780px;
   transform: translateY(10px);
   font-family: Arial, sans-serif;
   font-size: 30px;
