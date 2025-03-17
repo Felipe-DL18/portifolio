@@ -965,14 +965,14 @@ a{
   height: 550px;
 }
 #tuz{
-  margin-left: 700px;
+  margin-left: 600px;
   color:white;
   font-size:30px;
   transform: translateY(-10px);
 }
 .coisa1{
   margin-top: 85px;
-  margin-left: 480px;
+  margin-left: 600px;
   font-size: 30px;
   transform: translateY(-210px);
   font-family: Arial, sans-serif;
@@ -1002,8 +1002,8 @@ a{
 }
 .fet2{
   color: white;
-  margin-left: 670px;
-  transform: translateY(-20px);
+  margin-left: 720px;
+  transform: translateY(10px);
   font-family: Arial, sans-serif;
   font-size: 30px;
 }
