@@ -965,7 +965,7 @@ a{
   height: 550px;
 }
 #tuz{
-  margin-left: 440px;
+  margin-left: 520px;
   color:white;
   font-size:30px;
   transform: translateY(-10px);
@@ -974,7 +974,7 @@ a{
   margin-top: 85px;
   margin-left: 480px;
   font-size: 30px;
-  transform: translateY(-190px);
+  transform: translateY(-210px);
   font-family: Arial, sans-serif;
 }
 .t{
@@ -995,14 +995,14 @@ a{
 }
 .fet1{
   color: white;
-  margin-left: 390px;
+  margin-left: 550px;
   transform: translateY(10px);
   font-family: Arial, sans-serif;
   font-size: 30px;
 }
 .fet2{
   color: white;
-  margin-left: 560px;
+  margin-left: 670px;
   transform: translateY(-20px);
   font-family: Arial, sans-serif;
   font-size: 30px;
