@@ -930,8 +930,8 @@ a{
   width: 400px;
   height: 400px;
   transform: translateX(-250px);
-  display: flex;
   margin-top: 100px;
+  display: flex;
 }
 #tow{
   width: 400px;
