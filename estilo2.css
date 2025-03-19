@@ -377,7 +377,7 @@ a{
   border-color: white;
   border-width: 2px;
   border-style: solid;
-  height: 500px;
+  height: 1260px;
   width: 300px;
   margin-left: -170px;
   background-color: transparent;
@@ -396,4 +396,45 @@ a{
       width: 200px;
       height: 200px;
     }
+  #tex{
+      color: white;
+      font-family: Arial, sans-serif;
+      transform: translateY(-40px);
+      margin-left: 4px;
+    }
+    .lin{
+      transform: translateY(-50px);
+      margin-left: 5px;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+  #ç{
+      transform: translateY(-50px);
+      margin-left: 5px;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+  #container{
+      position:relative;
+      width: 10vh;
+      height: 165vh;
+    }
+    @keyframes Move1 {
+      from {
+          transform: translateX(290px);
+          background-color: lightblue;
+      }
+      to {
+          transform: translateX(-8%);
+          background-color: rgb(175, 158, 158);
+      }
+  }
+  #total{
+    border-color: white;
+    height: 500px;
+    width: 130px;
+    margin-left: 200px;
+    margin-top: 5px;
+    background-color: transparent;
+  }
   }
