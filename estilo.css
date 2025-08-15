@@ -324,7 +324,7 @@ a{
 #container{
     position:relative;
     width: 200vh;
-    height: 204vh;
+    height: 220vh;
   }
   @keyframes moveRisco {
     from {
@@ -916,7 +916,7 @@ a{
   border-style: solid;
   border-width: 3px;
   width:80%;
-  height: 3150px;
+  height: 3170px;
   margin-left: -270px;
   background-color: transparent;
   backdrop-filter: blur(500px);
@@ -956,7 +956,7 @@ a{
   width: 400px;
   height: 400px;
   margin-top: 120px;
-  margin-left: 450px;
+  margin-left: 400px;
   opacity: 0;
   animation: aparecer 1s ease-out forwards;
   animation-delay: 2s;
@@ -977,7 +977,7 @@ a{
   border-width: 3px;
   border-style: solid;
   width: 99.5%;
-  height: 840px;
+  height: 880px;
 }
 #tuz{
   margin-left: 490px;
@@ -989,7 +989,7 @@ a{
   margin-top: 85px;
   margin-left:520px;
   font-size: 40px;
-  transform: translateY(-260px);
+  transform: translateY(-310px);
   font-family: Arial, sans-serif;
 }
 .t{
@@ -1003,7 +1003,7 @@ a{
   width: 60px;
 }
 .tar{
-  margin-left: 450px;
+  margin-left: 320px;
   transform: translateY(-230px);
   border-color: black;
   border-style: solid;
@@ -1014,17 +1014,34 @@ a{
 }
 .fet1{
   color: white;
-  margin-left: 420px;
-  transform: translateY(10px);
+  margin-left: 300px;
+  transform: translateY(60px);
   font-family: Arial, sans-serif;
   font-size: 40px;
 }
 .fet2{
   color: white;
-  margin-left: 720px;
-  transform: translateY(-70px);
+  margin-left: 600px;
+  transform: translateY(-15px);
   font-family: Arial, sans-serif;
   font-size: 40px;
+}
+.fet7{
+  color: white;
+  margin-left: 850px;
+  transform: translateY(-100px);
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+}
+.ti{
+  margin-left: 190px;
+  transform: translateY(-230px);
+  border-color: black;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
 }
 .coisa2{
   margin-top: 30px;
@@ -1092,12 +1109,12 @@ width: 60px;
 .coisa3{
   margin-top: 30px;
   margin-left: 460px;
-  transform: translateY(-460px);
+  transform: translateY(-490px);
   font-family: Arial, sans-serif;
   font-size: 40px;
 }
 .tar2{
-  transform: translateY(-410px);
+  transform: translateY(-460px);
   width: 40px;
   margin-left: 580px;
   border-color: rgb(0, 0, 0);
@@ -1110,7 +1127,7 @@ width: 60px;
 .fet6{
   color: white;
   margin-left: 560px;
-  transform: translateY(-310px);
+  transform: translateY(-350px);
   font-family: Arial, sans-serif;
   font-size: 40px;
 }
@@ -1147,7 +1164,7 @@ width: 60px;
 #container{
   position:relative;
   width: 200vh;
-  height: 405vh;
+  height: 410vh;
 }
 #kk{
   background-color: black;
@@ -1175,7 +1192,7 @@ width: 60px;
     transform: translateX(-10vw);
   }
 }
-.t:hover, .tar:hover, .tar1:hover{
+.t:hover, .tar:hover, .tar1:hover, .ti:hover{
   transform: scale(1.3) translateY(-180px);
   transition: none;
   box-shadow: none;
@@ -1186,7 +1203,7 @@ width: 60px;
   box-shadow: none;
 }
 .tar2:hover{
-  transform: none;
+  transform:scale(1.3) translateY(-350px);
   transition: none;
   box-shadow: none;
 }
