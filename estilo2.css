@@ -291,7 +291,26 @@ a{
     background-color: transparent;
     backdrop-filter: blur(500px);
   }
+  .m1{
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    height: 500px;
+    width: 1100px;
+    background-color: transparent;
+    backdrop-filter: blur(500px);
+  }
   .nic{
+    transform: translateY(-380px);
+    margin-left: 55%;
+    color: white;
+  }
+  .nic1{
+    transform: translateY(-380px);
+    margin-left: 50%;
+    color: white;
+  }
+  .nic2{
     transform: translateY(-380px);
     margin-left: 55%;
     color: white;
@@ -377,7 +396,17 @@ a{
   border-color: white;
   border-width: 2px;
   border-style: solid;
-  height: 1260px;
+  height: 1290px;
+  width: 300px;
+  margin-left: -170px;
+  background-color: transparent;
+  backdrop-filter: blur(500px);
+}
+.m1{
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  height: 1320px;
   width: 300px;
   margin-left: -170px;
   background-color: transparent;
@@ -386,6 +415,16 @@ a{
 .nic{
   transform: translateY(-250px);
   margin-left: 22%;
+  color: white;
+}
+.nic1{
+  transform: translateY(-250px);
+  margin-left: 10%;
+  color: white;
+}
+.nic2{
+  transform: translateY(-250px);
+  margin-left: 30%;
   color: white;
 }
 .foto{
@@ -417,7 +456,7 @@ a{
   #container{
       position:relative;
       width: 10vh;
-      height: 430vh;
+      height: 508vh;
     }
     @keyframes Move1 {
       from {
@@ -438,5 +477,6 @@ a{
     background-color: transparent;
   }
   }
+
 
 
